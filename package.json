@@ -1,0 +1,23 @@
+{
+  "name": "tes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "follow-redirects": "^1.15.5",
+    "fs": "^0.0.1-security",
+    "grammy": "^1.21.1",
+    "https": "^1.0.0",
+    "querystring": "^0.2.1"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": true,
+  "data": {
+    "id": "0ms51fSVjObx122Atke4",
+    "reff_id": "effa307cf7502038",
+    "nominal": 20637,
+    "bank": "BCA",
+    "tujuan": "6395844443",
+    "atas_nama": "PT Atlantic Aksa Group",
+    "status": "pending",
+    "created_at": "2024-03-04 21:15:28",
+    "expired_at": "2024-03-04 23:59:59"
+  },
+  "code": 200
+}
