@@ -65,27 +65,5 @@ bot.on("message:text", async (ctx) => {
   }
 });
 
-// Fungsi untuk membuat request deposit ke API (contoh implementasi)
-// async function makeDepositRequest(nominal, type, method) {
-  // Logika untuk membuat request ke API dan mengembalikan respon
-  // Return contoh respon sukses
-//   return {
-//     status: true,
-//     data: {
-//       id: "xxxxxxx",
-//       reff_id: "xxxxxxx",
-//       nominal: nominal,
-//       type: type,
-//       method: method,
-//       qr_string: "xxxxxx",
-//       qr_image: "https://example.com/qr/xxxxx",
-//       status: "pending",
-//       created_at: new Date().toISOString(),
-//       expired_at: new Date(new Date().getTime() + 3600000).toISOString(), // 1 jam kemudian
-//     },
-//     code: 200,
-//   };
-// }
 
-// Jalankan bot
 bot.start();
